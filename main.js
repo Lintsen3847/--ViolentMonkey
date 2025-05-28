@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  隱藏影片進度條，阻止開發者工具跳轉百度
 // @author       Lin_tsen
-// @match        *://*/*
+// @match        https://www.ciyuancheng.net/watch/*
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
