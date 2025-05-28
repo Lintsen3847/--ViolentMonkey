@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  隱藏影片進度條，阻止開發者工具跳轉百度
-// @author       YourNameHere
+// @author       Lin_tsen
 // @match        *://*/*
 // @grant        none
 // @run-at       document-start
